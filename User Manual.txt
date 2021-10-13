@@ -1,0 +1,10 @@
+USERS MANUAL 
+
+Step 1:
+	Click on Green Shirt
+Step 2:
+	If you wish to add the green shirt to your cart then click on 'View' and then add to cart. If you do not want to add it to your cart then press 'Back.'
+Step 3:
+	If you wish to add the pink shirt to your cart then click on 'View' and then add to cart. If you do not want to add it then press 'Back.'
+Step 4:
+	Once you have added one, or both shirts to your cart then click on 'Checkout.'
